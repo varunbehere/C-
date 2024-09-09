@@ -1,0 +1,15 @@
+/Users/varun.behere/Documents/GitHub/csharp-learning/03_TypeConversion/bin/Debug/net8.0/03_TypeConversion
+/Users/varun.behere/Documents/GitHub/csharp-learning/03_TypeConversion/bin/Debug/net8.0/03_TypeConversion.deps.json
+/Users/varun.behere/Documents/GitHub/csharp-learning/03_TypeConversion/bin/Debug/net8.0/03_TypeConversion.runtimeconfig.json
+/Users/varun.behere/Documents/GitHub/csharp-learning/03_TypeConversion/bin/Debug/net8.0/03_TypeConversion.dll
+/Users/varun.behere/Documents/GitHub/csharp-learning/03_TypeConversion/bin/Debug/net8.0/03_TypeConversion.pdb
+/Users/varun.behere/Documents/GitHub/csharp-learning/03_TypeConversion/obj/Debug/net8.0/03_TypeConversion.GeneratedMSBuildEditorConfig.editorconfig
+/Users/varun.behere/Documents/GitHub/csharp-learning/03_TypeConversion/obj/Debug/net8.0/03_TypeConversion.AssemblyInfoInputs.cache
+/Users/varun.behere/Documents/GitHub/csharp-learning/03_TypeConversion/obj/Debug/net8.0/03_TypeConversion.AssemblyInfo.cs
+/Users/varun.behere/Documents/GitHub/csharp-learning/03_TypeConversion/obj/Debug/net8.0/03_TypeConversion.csproj.CoreCompileInputs.cache
+/Users/varun.behere/Documents/GitHub/csharp-learning/03_TypeConversion/obj/Debug/net8.0/03_TypeConversion.sourcelink.json
+/Users/varun.behere/Documents/GitHub/csharp-learning/03_TypeConversion/obj/Debug/net8.0/03_TypeConversion.dll
+/Users/varun.behere/Documents/GitHub/csharp-learning/03_TypeConversion/obj/Debug/net8.0/refint/03_TypeConversion.dll
+/Users/varun.behere/Documents/GitHub/csharp-learning/03_TypeConversion/obj/Debug/net8.0/03_TypeConversion.pdb
+/Users/varun.behere/Documents/GitHub/csharp-learning/03_TypeConversion/obj/Debug/net8.0/03_TypeConversion.genruntimeconfig.cache
+/Users/varun.behere/Documents/GitHub/csharp-learning/03_TypeConversion/obj/Debug/net8.0/ref/03_TypeConversion.dll
