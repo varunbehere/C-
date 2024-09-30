@@ -1,0 +1,15 @@
+/workspaces/csharp-learning/05_TempProject/bin/Debug/net8.0/05_TempProject
+/workspaces/csharp-learning/05_TempProject/bin/Debug/net8.0/05_TempProject.deps.json
+/workspaces/csharp-learning/05_TempProject/bin/Debug/net8.0/05_TempProject.runtimeconfig.json
+/workspaces/csharp-learning/05_TempProject/bin/Debug/net8.0/05_TempProject.dll
+/workspaces/csharp-learning/05_TempProject/bin/Debug/net8.0/05_TempProject.pdb
+/workspaces/csharp-learning/05_TempProject/obj/Debug/net8.0/05_TempProject.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/csharp-learning/05_TempProject/obj/Debug/net8.0/05_TempProject.AssemblyInfoInputs.cache
+/workspaces/csharp-learning/05_TempProject/obj/Debug/net8.0/05_TempProject.AssemblyInfo.cs
+/workspaces/csharp-learning/05_TempProject/obj/Debug/net8.0/05_TempProject.csproj.CoreCompileInputs.cache
+/workspaces/csharp-learning/05_TempProject/obj/Debug/net8.0/05_TempProject.sourcelink.json
+/workspaces/csharp-learning/05_TempProject/obj/Debug/net8.0/05_TempProject.dll
+/workspaces/csharp-learning/05_TempProject/obj/Debug/net8.0/refint/05_TempProject.dll
+/workspaces/csharp-learning/05_TempProject/obj/Debug/net8.0/05_TempProject.pdb
+/workspaces/csharp-learning/05_TempProject/obj/Debug/net8.0/05_TempProject.genruntimeconfig.cache
+/workspaces/csharp-learning/05_TempProject/obj/Debug/net8.0/ref/05_TempProject.dll

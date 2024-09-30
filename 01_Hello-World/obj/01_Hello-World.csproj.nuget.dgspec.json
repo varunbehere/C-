@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/varun.behere/Documents/GitHub/csharp-learning/01_Hello-World/01_Hello-World.csproj": {}
+    "/workspaces/csharp-learning/01_Hello-World/01_Hello-World.csproj": {}
   },
   "projects": {
-    "/Users/varun.behere/Documents/GitHub/csharp-learning/01_Hello-World/01_Hello-World.csproj": {
+    "/workspaces/csharp-learning/01_Hello-World/01_Hello-World.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/varun.behere/Documents/GitHub/csharp-learning/01_Hello-World/01_Hello-World.csproj",
+        "projectUniqueName": "/workspaces/csharp-learning/01_Hello-World/01_Hello-World.csproj",
         "projectName": "01_Hello-World",
-        "projectPath": "/Users/varun.behere/Documents/GitHub/csharp-learning/01_Hello-World/01_Hello-World.csproj",
-        "packagesPath": "/Users/varun.behere/.nuget/packages/",
-        "outputPath": "/Users/varun.behere/Documents/GitHub/csharp-learning/01_Hello-World/obj/",
+        "projectPath": "/workspaces/csharp-learning/01_Hello-World/01_Hello-World.csproj",
+        "packagesPath": "/home/codespace/.nuget/packages/",
+        "outputPath": "/workspaces/csharp-learning/01_Hello-World/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/varun.behere/.nuget/NuGet/NuGet.Config"
+          "/home/codespace/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.401/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.401/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

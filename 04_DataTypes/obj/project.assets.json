@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "/Users/varun.behere/.nuget/packages/": {}
+    "/home/codespace/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/varun.behere/Documents/GitHub/csharp-learning/DataTypes/DataTypes/DataTypes.csproj",
+      "projectUniqueName": "/workspaces/csharp-learning/04_DataTypes/DataTypes.csproj",
       "projectName": "DataTypes",
-      "projectPath": "/Users/varun.behere/Documents/GitHub/csharp-learning/DataTypes/DataTypes/DataTypes.csproj",
-      "packagesPath": "/Users/varun.behere/.nuget/packages/",
-      "outputPath": "/Users/varun.behere/Documents/GitHub/csharp-learning/DataTypes/DataTypes/obj/",
+      "projectPath": "/workspaces/csharp-learning/04_DataTypes/DataTypes.csproj",
+      "packagesPath": "/home/codespace/.nuget/packages/",
+      "outputPath": "/workspaces/csharp-learning/04_DataTypes/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/varun.behere/.nuget/NuGet/NuGet.Config"
+        "/home/codespace/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -64,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.401/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.401/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

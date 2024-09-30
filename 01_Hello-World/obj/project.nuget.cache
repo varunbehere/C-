@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lgjF1Lqgt7c=",
+  "dgSpecHash": "RbOUYsPlRZ4=",
   "success": true,
-  "projectFilePath": "/Users/varun.behere/Documents/GitHub/csharp-learning/01_Hello-World/01_Hello-World.csproj",
+  "projectFilePath": "/workspaces/csharp-learning/01_Hello-World/01_Hello-World.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
