@@ -25,6 +25,7 @@ class Program
                     Console.WriteLine("Your balance is: $" + balance);
                     Console.WriteLine("-------------------------------------------");
                     break;
+                
                 case 2:
                     Console.WriteLine("\n-------------------------------------------");
                     Console.Write("Enter amount to deposit: $");
@@ -33,6 +34,7 @@ class Program
                     Console.WriteLine("Deposit successful! Your new balance is: $" + balance);
                     Console.WriteLine("-------------------------------------------");
                     break;
+                
                 case 3:
                     Console.WriteLine("\n-------------------------------------------");
                     Console.Write("Enter amount to withdraw: $");
@@ -48,12 +50,14 @@ class Program
                     }
                     Console.WriteLine("-------------------------------------------");
                     break;
+                
                 case 4:
                     Console.WriteLine("\n-------------------------------------------");
                     exit = true;
                     Console.WriteLine("Thank you for using the ATM. Goodbye!");
                     Console.WriteLine("-------------------------------------------");
                     break;
+                
                 default:
                     Console.WriteLine("\n-------------------------------------------");
                     Console.WriteLine("Invalid option. Please try again.");
