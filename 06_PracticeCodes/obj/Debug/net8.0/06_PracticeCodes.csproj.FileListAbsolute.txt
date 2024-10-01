@@ -1,0 +1,15 @@
+/workspaces/csharp-learning/06_PracticeCodes/obj/Debug/net8.0/06_PracticeCodes.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/csharp-learning/06_PracticeCodes/obj/Debug/net8.0/06_PracticeCodes.AssemblyInfoInputs.cache
+/workspaces/csharp-learning/06_PracticeCodes/obj/Debug/net8.0/06_PracticeCodes.AssemblyInfo.cs
+/workspaces/csharp-learning/06_PracticeCodes/obj/Debug/net8.0/06_PracticeCodes.csproj.CoreCompileInputs.cache
+/workspaces/csharp-learning/06_PracticeCodes/obj/Debug/net8.0/06_PracticeCodes.sourcelink.json
+/workspaces/csharp-learning/06_PracticeCodes/bin/Debug/net8.0/06_PracticeCodes
+/workspaces/csharp-learning/06_PracticeCodes/bin/Debug/net8.0/06_PracticeCodes.deps.json
+/workspaces/csharp-learning/06_PracticeCodes/bin/Debug/net8.0/06_PracticeCodes.runtimeconfig.json
+/workspaces/csharp-learning/06_PracticeCodes/bin/Debug/net8.0/06_PracticeCodes.dll
+/workspaces/csharp-learning/06_PracticeCodes/bin/Debug/net8.0/06_PracticeCodes.pdb
+/workspaces/csharp-learning/06_PracticeCodes/obj/Debug/net8.0/06_PracticeCodes.dll
+/workspaces/csharp-learning/06_PracticeCodes/obj/Debug/net8.0/refint/06_PracticeCodes.dll
+/workspaces/csharp-learning/06_PracticeCodes/obj/Debug/net8.0/06_PracticeCodes.pdb
+/workspaces/csharp-learning/06_PracticeCodes/obj/Debug/net8.0/06_PracticeCodes.genruntimeconfig.cache
+/workspaces/csharp-learning/06_PracticeCodes/obj/Debug/net8.0/ref/06_PracticeCodes.dll
